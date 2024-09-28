@@ -1,2 +1,1 @@
-# ShatterglassXR
-Open Source XR Design System
+ShatterglassXR - An Open Source Design System for the Metaverse
