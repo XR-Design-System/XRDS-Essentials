@@ -1,1 +1,1 @@
-ShatterglassXR - An Open Source Design System for the Metaverse
+XRDS, An Open Source Design System for the Industrial Metaverse
